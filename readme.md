@@ -65,7 +65,7 @@ Os testes estão localizados nas pastas `tests/domains/` e `tests/services/`.
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request...
 
 ## Licença
 
